@@ -1,4 +1,4 @@
-# react-projects-7-slider
+# Create React Slider with interval
 
 #### IN ACTION
 
